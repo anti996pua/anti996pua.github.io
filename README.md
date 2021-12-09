@@ -1,46 +1,22 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## 向996PUA宣战
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+> 员工可以通过这个项目了解到公司管理制度是否合理，自己是否被PUA，被PUA了怎么处理。企业可以通过这个项目了解自身管理有什么问题，怎么样提高管理水平。职场小白可以通过这个项目迅速进化为熟知职场文化的“白骨精”（白领+骨干+精英），让职场PUA的企业和领导竞争力下降，被淘汰。让管理优秀的企业脱颖而出，慢慢提高管理优秀企业在所有企业中的占比。最终打败PUA！
+>
+> 只有从理论上打败996PUA，才能真正打败PUA，希望能像《论持久战》一样，成为击败PUA的理论依据。
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 为996PUA项目做贡献
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+夸下了海口，只能希望自己的能力和知识能配得上这个大主题了。
+希望各位同道可以来贡献各自的各种经验。
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
-
-## Installation
-
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#usage).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+> 管理这是个很主观的话题，很早就想写了，但又不想写。管理没有标准答案，不同规模，不同行业的公司，管理模式不一样。但是，我们可以找到目前理论界最好的解决方案，使用先进理论来武装自己，提升管理水平，打败PUA。
+>
+> 涉及的东西较多，慢慢整理，慢慢写。欢迎大家贡献！夸下了海口，只能希望自己的能力和知识能配得上这个大主题了。希望各位同道可以来贡献各自的各种经验。
+>
+> 项目地址： https://github.com/anti996pua/anti996pua.github.io
+>
+> 网页地址：https://anti996pua.github.io/
+>
+> 给本项目做共享：最好注册一个专门的github账号，和你的主力可以对公司公示的账号分开！！！
+>
+> ​							不要使用公司网络，公司电脑给项目做贡献！
