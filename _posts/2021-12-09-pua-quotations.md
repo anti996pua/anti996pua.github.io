@@ -3,10 +3,10 @@ title: PUA语录
 author:
   name: anti996pua
   link: https://github.com/anti996pua
-date: 2021-12-08 20:55:00 +0800
+date: 2021-12-09 20:55:00 +0800
 categories: [antipua]
 tags: [antipua]
-pin: true
+pin: false
 ---
 
 知道和了解AntiPUA
