@@ -3,7 +3,7 @@ title: 招聘黑话大全
 author:
   name: anti996pua
   link: https://github.com/anti996pua
-date: 2021-12-09 21:55:00 +0800
+date: 2021-12-07 21:55:00 +0800
 categories: [antipua]
 tags: [antipua]
 pin: false
