@@ -6,7 +6,7 @@
 >
 > 项目地址： <https://github.com/anti996pua/anti996pua.github.io>
 >
-> 诚征各位同道可以来贡献各自的各种经验！
+> 诚征各位同道来贡献各自的各种经验！
 
 ## 向996PUA宣战
 
