@@ -68,4 +68,4 @@ A:其实是绩效管理失败的借口，管理无能，绩效考核失败不能
 
 ## **须知**
 
-评论系统采用Disqus
+> 采用Jekyll博客形式，Disqus留言系统。支持[RSS订阅](https://anti996pua.github.io/feed.xml)
