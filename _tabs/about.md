@@ -4,7 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+## Anti996PUA 项目启动
+
 > 采用Jekyll博客形式，Disqus留言系统。支持[RSS订阅](https://anti996pua.github.io/feed.xml)
+>
+> 网页地址：<https://anti996pua.github.io/>
+>
+> 项目地址： <https://github.com/anti996pua/anti996pua.github.io>
+>
+> 诚征各位同道可以来贡献各自的各种经验！
 
 ## 向996PUA宣战
 
