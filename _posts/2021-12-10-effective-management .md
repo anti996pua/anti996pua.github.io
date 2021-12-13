@@ -190,7 +190,7 @@ pin: false
   >
   > 内容很多，对于一个优秀的管理者来说，知道了名字，就有方法做好！篇幅限制，不会都详细介绍。
 
-### 合格管理者的知识储备
+### 合格管理者需要那些知识储备
 
   > PMBOK 《專案管理知識體系指南》(PMBOK® Guide, A Guide to the Project Management Body of Knowledge)。都需要了解。基础知识之一。可以几天速成。
   >
