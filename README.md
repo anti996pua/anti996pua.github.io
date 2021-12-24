@@ -8,6 +8,14 @@
 >
 > 诚征各位同道来贡献各自的各种经验！
 
+项目推广二维码
+![](https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/2021/anti996pua.jpg)
+```
+https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/2021/anti996pua.jpg
+
+
+![](https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/2021/anti996pua.jpg)
+```
 ### 所有文字均滚动更新
 
 ## **向996PUA宣战**
