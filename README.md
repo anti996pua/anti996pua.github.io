@@ -46,6 +46,16 @@ https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/
 >
 > 网页地址：<https://anti996pua.github.io/>
 
+### 参与项目的方法
+
+- 项目采用Jekyll主题[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)，主题使用详细介绍，请参考[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)。
+
+- 文章采用Markdown语法编写，文章目录为`_posts/*.md`，请参考其中的文件命名方式和语法规范。
+
+- 在Github项目主页提交[Issues](https://github.com/anti996pua/anti996pua.github.io/issues)
+
+- 在项目[网页](https://anti996pua.github.io/)下面留言，Disqus留言系统。
+
 > **为了保护作者和贡献者，注意事项**：
 >
 > - 最好注册一个专门的github账号，和你的主力可以对公司公示的账号分开！！！
