@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/
 
 各位有不同意见的，可以提出来，大家一起讨论，理性讨论，拒绝无意义的争吵！
 
-### 道与兵
+### **道与兵**
 
 > **真经一句话，假经传万卷！**
 >
@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/
 > 遇到吹的天花乱坠的，洋洋洒洒几十万字的具体的术和法的教导，就是不指出本质方法论-道，这就不是真心想教会你了。这既是**假经传万卷**。
 
 
-## 项目内容包括
+## **项目内容包括**
 
 > 这里只列出了项目中的部分内容
 
