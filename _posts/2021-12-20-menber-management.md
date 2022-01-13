@@ -233,3 +233,5 @@ TODO
 ## **须知**
 
 > 采用Jekyll博客形式，Disqus留言系统。支持[RSS订阅](https://anti996pua.github.io/feed.xml)
+>
+> 所有文章均滚动更新！
