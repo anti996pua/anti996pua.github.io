@@ -153,3 +153,7 @@ https://raw.githubusercontent.com/anti996pua/anti996pua.github.io/main/data/pic/
 - 收集所有可能对帮助打败996PUA的方法和知识
 - 收集PUA语录并给出反击语录
 - 给出一条切实可行的管理方式和方法，提高企业管理水平。不需要996，就可以打败996企业的方式和方法。
+
+## 投稿&Star
+
+> 为了早日击溃996，希望大家可以投稿，Star本项目
